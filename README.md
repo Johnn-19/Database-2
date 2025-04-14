@@ -1,2 +1,2 @@
 # Database-2
-Project about implementing an engine of database using the java language.
+Project about implementing a small engine of database using the java language.
